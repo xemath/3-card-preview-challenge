@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL](https://www.frontendmentor.io/solutions/3columnpreview-6222GYf8S)
+- [live site URL](https://xemath.github.io/3-card-preview-challenge/)
 
 
 
